@@ -1,0 +1,132 @@
+<<<<<<< HEAD
+.top-navbar{
+    background-color: #000000;
+    color: #fff;
+    text-decoration: none;
+    padding: 0rem 10px;
+}
+.top-nav-item{
+    text-decoration: none;
+    color:#fff ;
+}
+.nav-content{
+    text-align: right;
+}
+.title-img{
+    width: 100%;
+}
+.nav-img{
+    height: 30px;
+    width: 180px;
+}
+.navbar-inverse{
+    margin: 0rem;
+    border-radius: 0rem;
+}
+h1{
+    text-align: center;
+    color: blue;
+    font-weight: bolder;
+    padding: 100px ;
+}
+.about{
+    text-align: center;
+    padding: 1%;
+}
+td{
+    padding: 0% 2%;
+}
+.trophy-img{
+    width: 80px;
+    height: 80px;
+}
+table{
+    text-align: center;
+}
+.calendar-img{
+    height: 80px;
+    width: 80px;
+}
+.people-img{
+    width: 100px;
+    height: 70px;
+}
+.stat{
+    margin: 5% 35%;
+    align-items: center;
+}
+.awards{
+    font-size: larger;
+}
+.row{
+    padding: 0% 10% 4%;
+}
+.button{
+    text-align: center;
+=======
+.top-navbar{
+    background-color: #000000;
+    color: #fff;
+    text-decoration: none;
+    padding: 0rem 10px;
+}
+.top-nav-item{
+    text-decoration: none;
+    color:#fff ;
+}
+.nav-content{
+    text-align: right;
+}
+.title-img{
+    width: 100%;
+}
+.nav-img{
+    height: 30px;
+    width: 180px;
+}
+.navbar-inverse{
+    margin: 0rem;
+    border-radius: 0rem;
+}
+h1{
+    text-align: center;
+    color: blue;
+    font-weight: bolder;
+    padding: 100px ;
+}
+.about{
+    text-align: center;
+    padding: 1%;
+}
+td{
+    padding: 0% 2%;
+}
+.trophy-img{
+    width: 80px;
+    height: 80px;
+}
+table{
+    text-align: center;
+}
+.calendar-img{
+    height: 80px;
+    width: 80px;
+}
+.people-img{
+    width: 100px;
+    height: 70px;
+}
+.stat{
+    margin: 5% 35%;
+    align-items: center;
+}
+.awards{
+    font-size: larger;
+}
+.row{
+    padding: 0% 10% 4%;
+}
+.button{
+    text-align: center;
+>>>>>>> 613912aaf645631b4f95284d543a079cdeed7a36
+}
